@@ -4,6 +4,10 @@
 * trigger: what starts the task, usually events
 * location: where the task starts
 * priority: high, normal, low
+* 
+
+# Hopes
+* intruptable tasks have checkpoints, task will be resumed from the checkpoint. posible interuptions: server/chunk unload, higher priority task is given
 
 ## Clean Inventory
 * prirority: high
