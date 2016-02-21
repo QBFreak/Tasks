@@ -4,7 +4,6 @@
 * Trigger: what starts the task, usually events
 * Location: where the task starts
 * Priority: high, normal, low
-* 
 
 # Goals
 * Interruptible tasks have checkpoints, task will be resumed from the checkpoint. Possible interruptions:
